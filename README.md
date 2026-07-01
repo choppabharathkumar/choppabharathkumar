@@ -1,243 +1,44 @@
-<h1 align="center">
-Hi 👋, I'm Choppa Bharath Kumar
-</h1>
-
-<h3 align="center">
-AI/ML Enthusiast • Data Engineering • Cybersecurity
-</h3>
-
 <p align="center">
-Building Intelligent Solutions with Python 🚀
+  <a href="https://readme-typing-svg.demolab.com/?lines=Choppa+Bharath+Kumar;AI/ML+Enthusiast;Data+Engineering;Cybersecurity&font=Fira%20Code&center=true&width=450&height=150">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Choppa+Bharath+Kumar;AI/ML+Enthusiast;Data+Engineering;Cybersecurity&font=Fira%20Code&center=true&width=450&height=150" alt="Typing SVG" />
+  </a>
 </p>
 
+## 👨‍💻 About Me
+- 🎓 Computer Science B.E. Graduate (RMD Engineering College, Chennai)
+- 🌟 AI/ML, Data Engineering, and Cybersecurity enthusiast
+- 💻 Proficient in Python, Java, Web (HTML/CSS/JS), and data analysis
+- 📍 Based in Nellore, Andhra Pradesh, India
+
+## 🛠️ Tech Stack
 <p align="center">
-<a href="https://www.linkedin.com/in/choppabharathkumar/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:bharathkumarchoppa2005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/choppabharathkumar">
-<img src="https://img.shields.io/github/followers/choppabharathkumar?label=Followers&style=for-the-badge"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=choppabharathkumar&style=for-the-badge"/>
-
+  <img src="https://skillicons.dev/icons?i=py,java,mysql,html,css,js,git,docker,linux,vscode&theme=light" alt="Tech Stack Icons"/>
 </p>
 
----
-
-# 👨‍💻 About Me
-
-🎓 Computer Science Engineering Graduate
-
-🤖 Passionate about Artificial Intelligence & Machine Learning
-
-📊 Interested in Data Engineering and ETL Pipelines
-
-🔐 Cybersecurity Enthusiast
-
-🐍 Python Developer
-
-📍 Nellore, Andhra Pradesh, India
-
-🌱 Currently learning
-
-- Advanced Machine Learning
-- Data Engineering
-- MLOps
-- Cybersecurity
-
----
-
-# 🛠 Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-</p>
-
----
-
-## AI / ML
-
-- Machine Learning
-- Data Cleaning
-- Data Analysis
-- Data Visualization
-- Model Building
-- Isolation Forest
-- SHAP Explainability
-- Pandas
-- NumPy
-- Matplotlib
-
----
-
-## Data Engineering
-
-- ETL
-- Data Pipelines
-- Data Modeling
-- SQL
-- MySQL
-- API Integration
-
----
-
-## Cybersecurity
-
-- Network Security
-- Intrusion Detection
-- OWASP Top 10
-- Vulnerability Assessment
-- Nmap
-- Wireshark
-- Burp Suite
-
----
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🔹 Hybrid Network Intrusion Detection System
-
-✔ Isolation Forest
-
-✔ SHAP Explainability
-
-✔ Python
-
-✔ Machine Learning
-
----
-
-## 🔹 TrendPulse
-
-✔ ETL Pipeline
-
-✔ Hacker News API
-
-✔ Pandas
-
-✔ NumPy
-
-✔ Data Visualization
-
----
-
-## 🔹 Secure File & Text Encryption
-
-✔ HTML
-
-✔ CSS
-
-✔ JavaScript
-
-✔ Secure Encryption
-
----
-
-## 🔹 Hospital Management System
-
-✔ HTML
-
-✔ CSS
-
-✔ JavaScript
-
-✔ Team Project
-
----
-
-# 📊 GitHub Analytics
-
+## 🚀 Featured Projects
+- **Hybrid Network Intrusion Detection System** — A Python-based IDS combining signature detection with Isolation Forest anomaly detection, using SHAP for explainability.
+- **TrendPulse** — ETL pipeline in Python that collects, cleans, and analyzes Hacker News data (Pandas, NumPy).
+- **Secure File & Text Encryption** — Web application (HTML/CSS/JavaScript) for encrypting files and text securely.
+- **Hospital Management System** — Full-stack hospital management web app (HTML/CSS/JavaScript) with patient, doctor, and admin modules.
+
+## 📊 GitHub Stats
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=choppabharathkumar&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choppabharathkumar&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=choppabharathkumar&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choppabharathkumar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="49%"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
+## 🏆 GitHub Trophies
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=choppabharathkumar&theme=algolia&no-frame=true&margin-w=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=choppabharathkumar&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophy"/>
 </p>
 
----
-
-# 📈 Contribution Graph
-
+## 📈 Contribution Graph
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=choppabharathkumar&theme=github-dark"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=choppabharathkumar&theme=tokyo-night" alt="Activity Graph"/>
 </p>
 
----
+## 📫 Connect with Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/choppabharathkumar/)
+- ✉️ [Email](mailto:bharathkumarchoppa2005@gmail.com)
 
-# 🌐 Connect With Me
-
-<p>
-
-<a href="https://www.linkedin.com/in/choppabharathkumar/">
-
-LinkedIn
-
-</a>
-
-•
-
-<a href="mailto:bharathkumarchoppa2005@gmail.com">
-
-Email
-
-</a>
-
-</p>
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-</h3>
+***⭐ Thanks for visiting!***  
