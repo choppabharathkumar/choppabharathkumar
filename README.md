@@ -121,15 +121,6 @@ Web application to securely encrypt and decrypt text and files.
 
 Developed during a college hackathon using HTML, CSS and JavaScript.
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=choppabharathkumar&show_icons=true&theme=github_dark&hide_border=true"/>
-
-</p>
 
 ---
 
