@@ -1,180 +1,62 @@
-<h1 align="center">Hi 👋, I'm Choppa Bharath Kumar</h1>
+# Hi, I'm Choppa Bharath Kumar
 
-<h3 align="center">
-AI/ML Enthusiast | Data Engineering | Python Developer
-</h3>
+Computer Science & Engineering graduate focused on AI/ML and data engineering, building projects in Python.
 
-<p align="center">
-Building Intelligent Solutions with Python 🚀
-</p>
+I build data pipelines and machine learning workflows, with a secondary interest in explainable ML for network security. I'm looking for entry-level roles in AI/ML engineering, data engineering, or data analysis.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/choppabharathkumar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+Nellore, India · [LinkedIn](https://www.linkedin.com/in/choppabharathkumar/)
 
-  <a href="mailto:bharathkumarchoppa2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## What I Build
 
----
+- **Data pipelines:** ingest data from public APIs, clean it, and produce analysis-ready datasets and charts with Pandas, NumPy, and Matplotlib.
+- **Machine learning for security:** anomaly detection on network traffic using Isolation Forest with SHAP explanations (in progress).
 
-## 👨‍💻 About Me
+## Technical Stack
 
-🎓 Computer Science Engineering Graduate passionate about building intelligent software using **Artificial Intelligence**, **Machine Learning**, and **Data Engineering**.
+| Area | Tools |
+|---|---|
+| Languages | Python, SQL |
+| Data & Analytics | Pandas, NumPy, Matplotlib |
+| Machine Learning | scikit-learn, Isolation Forest, SHAP |
+| Data Engineering | REST API ingestion (requests), ETL scripts |
+| Developer Tools | Git, GitHub |
 
-💡 I enjoy solving real-world problems through data-driven solutions, automation, and secure software development.
+## Featured Projects
 
-🐍 Skilled in **Python, SQL, Machine Learning, ETL Pipelines, and Data Analysis**.
+### Hybrid Network Intrusion Detection System (in progress)
 
-🔐 I also have an interest in **Cybersecurity, Network Security, and Secure Application Development**.
+Detecting known and unknown network attacks by combining rule-based signatures with anomaly detection.
 
-📍 Based in **Nellore, Andhra Pradesh, India**
+**Stack:** Python, Pandas, NumPy, scikit-learn, SHAP
 
-🎯 Currently seeking **Full-Time opportunities** as an **AI/ML Engineer**, **Data Engineer**, or **Data Analyst**.
+- Working with the CICIDS2017 dataset: merged files, removed duplicates, ran EDA, and built a preprocessing pipeline that outputs a cleaned dataset.
+- Designed pipeline: rule-based detection, then Isolation Forest, then SHAP explanations, then a Streamlit dashboard.
+- Status: data preparation complete. Detection engine, model training and evaluation are next.
 
----
+[Repository](https://github.com/choppabharathkumar/Hybrid-Network-Intrusion-Detection-System)
 
-## 🚀 Currently Working On
+### TrendPulse
 
-- 🤖 Developing Machine Learning applications
-- 📊 Building ETL and Data Engineering pipelines
-- 📈 Exploring Data Analytics and Visualization
-- 🐍 Writing Python automation scripts
-- 🔐 Learning Secure Software Development
+A Python ETL and analysis pipeline for live Hacker News stories.
 
----
+**Stack:** Python, requests, Pandas, NumPy, Matplotlib
 
-## 🌱 Currently Learning
+- Collects top stories from the Hacker News public API and saves them as JSON.
+- Cleans the data (duplicates, missing values, low-quality entries) and writes CSV output.
+- Derives engagement score and popularity flag, then charts top stories, category distribution, and score vs. comments.
 
-- Advanced Machine Learning
-- Deep Learning Fundamentals
-- Data Engineering
-- MLOps Fundamentals
-- Cloud Technologies
-- Cybersecurity
+[Repository](https://github.com/choppabharathkumar/trendpulse-bharath)
 
----
-
-## 💬 Ask Me About
-
-- Python
-- Machine Learning
-- Data Engineering
-- SQL
-- Data Analytics
-- ETL Pipelines
-- Linux
-- Cybersecurity Basics
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,javascript"/>
-</p>
-
-### 🤖 Artificial Intelligence & Machine Learning
-
-- Machine Learning
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
-- Data Cleaning
-- Feature Engineering
-- Model Building
-- Data Analysis
-
-### 📊 Data Engineering
-
-- ETL Pipelines
-- Data Modeling
-- SQL
-- MySQL
-- Data Processing
-
-### 🔐 Cybersecurity
-
-- Network Security
-- OWASP Top 10
-- Kali Linux
-- Nmap
-- Wireshark
-- Burp Suite
-- Metasploit
-
-### 🧰 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Hybrid Network Intrusion Detection System
-
-**Tech Stack:** Python • Scikit-learn • SHAP
-
-Developed a Hybrid Intrusion Detection System combining **Signature-Based Detection** with **Machine Learning** using **Isolation Forest** and **SHAP Explainability**.
-
----
-
-### 🔹 TrendPulse
-
-**Tech Stack:** Python • Pandas • NumPy • ETL
-
-Built an end-to-end ETL pipeline that collects trending stories from the Hacker News API, cleans data, performs analysis, and generates structured datasets.
-
----
-
-### 🔹 Secure File & Text Encryption Web App
-
-**Tech Stack:** HTML • CSS • JavaScript
-
-Developed a secure web application for encrypting and decrypting text and files through a simple user interface.
-
----
-
-### 🔹 Hospital Management System
-
-**Tech Stack:** HTML • CSS • JavaScript
-
-Developed a Hospital Management System during a college hackathon to manage patients, doctors, appointments, and records.
-
----
-
-## 🏅 Certifications
+## Certifications
 
 - SAP Certified Associate – Back-End Developer – ABAP Cloud
-- Artificial Intelligence & Machine Learning (Learning)
 
----
+## Current Focus
 
-## ⚡ Fun Fact
+- Completing the intrusion detection pipeline: Isolation Forest, SHAP, evaluation
+- Building more SQL-backed data pipelines
 
-I enjoy building AI-powered applications, exploring cybersecurity concepts, and continuously learning emerging technologies.
+## Connect
 
----
-
-## 📫 Connect With Me
-
-- 📧 **Email:** bharathkumarchoppa2005@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/choppabharathkumar/
-- 🐙 **GitHub:** https://github.com/choppabharathkumar
-
----
-
-<h3 align="center">
-Thanks for visiting my GitHub! 🚀
-</h3>
-
-<p align="center">
-I'm always open to collaborating on AI/ML, Data Engineering, Open Source, and Cybersecurity projects.
-</p>
+- [LinkedIn](https://www.linkedin.com/in/choppabharathkumar/)
+- [GitHub](https://github.com/choppabharathkumar)
